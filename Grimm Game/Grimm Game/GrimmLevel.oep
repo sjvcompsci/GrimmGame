@@ -88,7 +88,7 @@
         <X>0</X>
         <Y>0</Y>
       </Origin>
-      <ImageDefinition DrawMode="Image" ImagePath="Game Stuff\stock-vector-cartoon-brick-wall-79588576.bmp" Tiled="false">
+      <ImageDefinition DrawMode="Image" ImagePath="stock-vector-cartoon-brick-wall-79588576.bmp" Tiled="false">
         <RectColor A="255" R="255" G="0" B="0" />
       </ImageDefinition>
       <ValueDefinitions />
@@ -103,7 +103,7 @@
         <X>0</X>
         <Y>0</Y>
       </Origin>
-      <ImageDefinition DrawMode="Image" ImagePath="Game Stuff\Floor.bmp" Tiled="false">
+      <ImageDefinition DrawMode="Image" ImagePath="Floor.bmp" Tiled="false">
         <RectColor A="255" R="255" G="0" B="0" />
       </ImageDefinition>
       <ValueDefinitions />

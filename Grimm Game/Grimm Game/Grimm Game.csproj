@@ -66,8 +66,12 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Floor.bmp" />
-    <Content Include="stock-vector-cartoon-brick-wall-79588576.bmp" />
+    <Content Include="Floor.bmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="stock-vector-cartoon-brick-wall-79588576.bmp">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="tiles.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
